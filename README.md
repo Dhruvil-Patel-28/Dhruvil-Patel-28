@@ -131,3 +131,5 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Dhruvil-Patel-28&style=flat-square&color=6C63FF" alt="" width="0" height="0" />
