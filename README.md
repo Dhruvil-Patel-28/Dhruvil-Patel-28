@@ -15,6 +15,8 @@
   <!-- Agentic AI & LLMs -->
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/RAG-4A154B?style=for-the-badge&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
   <br/>
@@ -22,6 +24,8 @@
   <!-- Backend & Infra -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -31,6 +35,7 @@
 
   <!-- ML & Data -->
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
@@ -41,6 +46,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Supermemory-6366F1?style=for-the-badge&logoColor=white" alt="Supermemory" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 </p>
@@ -51,6 +57,31 @@
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3 align="center"><a href="https://github.com/Dhruvil-Patel-28/CortexResearch-AI">CortexResearch — Market-Pulse Radar &amp; Deep-Research Engine</a></h3>
+      <p>Built a personalized market-pulse radar that ingests <strong>six free sources</strong> — Hacker News, arXiv, RSS/blogs, Reddit, GitHub Trending, and Product Hunt — then deduplicates, clusters, and ranks stories against each user's interest profile. A <strong>LangGraph planner → researcher → writer → verifier → reviser pipeline</strong> turns any story into a cited deep brief with claim-level verification, guardrails, hybrid retrieval, digests, and a searchable report library.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/SSE-6366F1?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/246_Tests_Passing-3fb950?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Dhruvil-Patel-28/Note-Master-Supermemory/tree/v4-vector">Note Master — Private Local-First Knowledge Assistant</a></h3>
+      <p>Built a <strong>fully local personal knowledge assistant</strong> for capturing text, voice memos, and documents, then answering questions with grounded, cited retrieval. Powered by ChromaDB, Ollama, FastAPI, and Next.js with local OCR, voice transcription, sensitivity labels, and audit logging.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      </p>
+    </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Dhruvil-Patel-28/AI-Native-CRM">Glow Studio — AI-Native CRM</a></h3>
       <p>Engineered a three-version AI-native CRM featuring a <strong>LangGraph autopilot agent loop</strong>, FastAPI backend, and PostgreSQL + Upstash Redis for state management and caching. Covered with <strong>112 integration tests</strong> and deployed across Railway, Supabase, Vercel, and Upstash.</p>
@@ -59,15 +90,6 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Dhruvil-Patel-28/CortexResearch-AI">Cortex Research AI — Multi-Agent Research System</a></h3>
-      <p>Architected a multi-agent research assistant powered by a <strong>hybrid RAG pipeline</strong> — FAISS vector search combined with semantic reranking — running on an async FastAPI backend for high-throughput research queries.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -84,7 +106,7 @@
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Dhruvil-Patel-28/MediBot">MediBot — RAG Medical Chatbot</a></h3>
-      <p>Created a retrieval-augmented chatbot for medical Q&A using <strong>FAISS for vector retrieval</strong> and HuggingFace embeddings, served through a Streamlit interface with Groq for fast inference.</p>
+      <p>Created a retrieval-augmented chatbot for medical Q&amp;A using <strong>FAISS for vector retrieval</strong> and HuggingFace embeddings, served through a Streamlit interface with Groq for fast inference.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
@@ -115,9 +137,10 @@
 
 ### 🎯 Currently
 
-- 🔭 Building agentic AI systems with **multi-agent orchestration** and **tool-use patterns**
-- 🌱 Exploring **MCP (Model Context Protocol)** and advanced **function calling** architectures
-- 🎯 Seeking **AI/ML engineering internship** roles focused on agentic pipelines, RAG systems, and LLM-backed backends
+- 💼 **AI Intern at AdeptNova**
+- 🔭 Building **CortexResearch**, a market-pulse radar and deep-research engine
+- 🌱 Exploring reliable **agentic AI**, guardrails, and **MCP (Model Context Protocol)**
+- 🎯 Seeking **AI/ML engineering internship** opportunities
 
 ---
 
