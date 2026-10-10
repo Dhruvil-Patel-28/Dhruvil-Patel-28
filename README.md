@@ -137,7 +137,6 @@
 
 ### 🎯 Currently
 
-- 💼 **AI Intern at AdeptNova**
 - 🔭 Building **CortexResearch**, a market-pulse radar and deep-research engine
 - 🌱 Exploring reliable **agentic AI**, guardrails, and **MCP (Model Context Protocol)**
 - 🎯 Seeking **AI/ML engineering internship** opportunities
