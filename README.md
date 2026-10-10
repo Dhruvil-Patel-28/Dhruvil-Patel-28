@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dhruvil Patel 👋</h1>
+<h1 align="center">Hi, I'm Dhruvil Patel 👋🏻</h1>
 
 <h3 align="center">Crafting intelligent systems with multi-agent architectures, RAG pipelines, and LLM-powered backends</h3>
 
